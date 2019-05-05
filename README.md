@@ -1,5 +1,5 @@
 # android-online-attendence-app
-Its a Android based android app in which we can mark and view attendence from anywhere
+Its a web based android app in which we can mark and view attendence from anywhere
 
 
 HOW TO USE THE APP ..
