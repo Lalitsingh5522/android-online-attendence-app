@@ -3,6 +3,6 @@ Its a Android based android app in which we can mark and view attendence from an
 
 
 HOW TO USE THE APP ..
-step1.> download the apk file.
-step2.> turn on your data connection.
-step3.> nevigate through the app UI.
+1) step1.> download the apk file.
+2) step2.> turn on your data connection.
+3) step3.> nevigate through the app UI.
